@@ -1,0 +1,112 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "authorId": "author_2",
+    "price": 15,
+    "stock": 20,
+    "images": [
+      "https://example.com/mockingbird_cover.jpg",
+      "https://example.com/mockingbird_back.jpg"
+    ],
+    "excerpt": "The novel explores the irrationality of adult attitudes toward race and class in the Deep South of the 1930s through the eyes of a child, Scout Finch."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "authorId": "author_7",
+    "price": 30,
+    "stock": 20,
+    "images": [
+      "https://example.com/lotr_cover.jpg",
+      "https://example.com/lotr_back.jpg"
+    ],
+    "excerpt": "The story begins in the Shire, where the hobbit Frodo Baggins inherits the Ring from Bilbo Baggins, his cousin and guardian. Frodo sets out on a quest to destroy the Ring and is joined by eight companions who form the Fellowship of the Ring."
+  },
+  {
+    "title": "1984",
+    "authorId": "author_3",
+    "price": 18,
+    "stock": 20,
+    "images": [
+      "https://example.com/1984_cover.jpg",
+      "https://example.com/1984_back.jpg"
+    ],
+    "excerpt": "The story takes place in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, omnipresent government surveillance, historical negationism, and propaganda."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "authorId": "author_5",
+    "price": 17,
+    "stock": 20,
+    "images": [
+      "https://example.com/catcher_cover.jpg",
+      "https://example.com/catcher_back.jpg"
+    ],
+    "excerpt": "The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school."
+  },
+  {
+    "title": "The Hobbit",
+    "authorId": "author_7",
+    "price": 20,
+    "stock": 20,
+    "images": [
+      "https://example.com/hobbit_cover.jpg",
+      "https://example.com/hobbit_back.jpg"
+    ],
+    "excerpt": "The plot revolves around the quest of the home-loving hobbit Bilbo Baggins, who is hired by the wizard Gandalf and thirteen dwarves, led by Thorin Oakenshield, on a journey to reclaim the Lonely Mountain and its treasure from the dragon Smaug."
+  },
+  {
+    "title": "The Great Gatsby",
+    "authorId": "author_1",
+    "price": 20,
+    "stock": 20,
+    "images": [
+      "https://example.com/gatsby_cover.jpg",
+      "https://example.com/gatsby_back.jpg"
+    ],
+    "excerpt": "The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan."
+  },
+  {
+    "title": "The Hunger Games",
+    "authorId": "author_8",
+    "price": 16,
+    "stock": 20,
+    "images": [
+      "https://example.com/hunger_games_cover.jpg",
+      "https://example.com/hunger_games_back.jpg"
+    ],
+    "excerpt": "The story is set in a dystopian future where the Capitol selects a boy and a girl from the twelve districts to fight to the death on live television, Katniss Everdeen volunteers to take her younger sister's place in the games."
+  },
+  {
+    "title": "Dune",
+    "authorId": "author_9",
+    "price": 28,
+    "stock": 20,
+    "images": [
+      "https://example.com/dune_cover.jpg",
+      "https://example.com/dune_back.jpg"
+    ],
+    "excerpt": "The novel takes place in the distant future amidst a feudal interstellar society in which noble houses, in control of individual planets, owe allegiance to the Padishah Emperor, and all are responsible for the mining of the spice melange, the most valuable substance in the universe."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "authorId": "author_4",
+    "price": 22,
+    "stock": 20,
+    "images": [
+      "https://example.com/pride_prejudice_cover.jpg",
+      "https://example.com/pride_prejudice_back.jpg"
+    ],
+    "excerpt": "It follows the emotional development of the protagonist Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authorId": "author_6",
+    "price": 25,
+    "stock": 20,
+    "images": [
+      "https://example.com/harry_potter_cover.jpg",
+      "https://example.com/harry_potter_back.jpg"
+    ],
+    "excerpt": "The story follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry."
+  }
+]
